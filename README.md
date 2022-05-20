@@ -8,17 +8,19 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Genome Assembly](#genome-assembly)
-  - [De novo](#de-novo)
-  - [Metrics](#metrics)
-- [Multiple sequence alignment](#multiple-sequence-alignment)
-  - [Align](#align)
-  - [Trimming](#trimming)
-  - [Summary statistics](#summary-statistics)
-- [Phylogenetics](#phylogenetics)
-- [Phylogenetic inference](#phylogenetic-inference)
-- [Codon analyses](#codon-analyses)
-  - [Codon optimization](#codon-optimization)
+- [Awesome LatchBio ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-latchbio-)
+  - [Table of Contents](#table-of-contents)
+    - [Genome Assembly](#genome-assembly)
+      - [De novo](#de-novo)
+      - [Metrics](#metrics)
+    - [Multiple sequence alignment](#multiple-sequence-alignment)
+      - [Align](#align)
+      - [Trimming](#trimming)
+      - [Summary statistics](#summary-statistics)
+    - [Phylogenetics](#phylogenetics)
+      - [Phylogenetic inference](#phylogenetic-inference)
+    - [Codon analyses](#codon-analyses)
+      - [Codon optimization](#codon-optimization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -46,7 +48,7 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 
 ### Phylogenetics
 
-### Phylogenetic inference
+#### Phylogenetic inference
 - **[IQ-TREE2](http://www.iqtree.org/doc/)** - Efficient software for phylogenomic inference. [ **wf.infer_phylogeny** | [paper-2020](https://doi.org/10.1093/molbev/msaa015) | [documentation](http://www.iqtree.org/doc/) ]
 
 ### Codon analyses
