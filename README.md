@@ -19,6 +19,7 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   - [Phylogenetic inference](#phylogenetic-inference)
 - [Codon analyses](#codon-analyses)
   - [Codon optimization](#codon-optimization)
+- [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
