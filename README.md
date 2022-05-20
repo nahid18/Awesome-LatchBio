@@ -8,17 +8,17 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Awesome LatchBio ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-latchbio-)
-  - [Table of Contents](#table-of-contents)
-    - [Genome Assembly](#genome-assembly)
-      - [De novo](#de-novo)
-    - [Multiple sequence alignments (MSAs) and phylogenetics](#multiple-sequence-alignments-msas-and-phylogenetics)
-      - [Trim multiple sequence alignment](#trim-multiple-sequence-alignment)
-      - [Align multiple sequences](#align-multiple-sequences)
-      - [Alignment summary statistics](#alignment-summary-statistics)
-      - [Phylogenetic inference](#phylogenetic-inference)
-    - [Analyses of codons](#analyses-of-codons)
-      - [Codon optimization](#codon-optimization)
+- [Genome Assembly](#genome-assembly)
+  - [De novo](#de-novo)
+  - [Metrics](#metrics)
+- [Multiple sequence alignment](#multiple-sequence-alignment)
+  - [Align](#align)
+  - [Trimming](#trimming)
+  - [Summary statistics](#summary-statistics)
+- [Phylogenetics](#phylogenetics)
+- [Phylogenetic inference](#phylogenetic-inference)
+- [Codon analyses](#codon-analyses)
+  - [Codon optimization](#codon-optimization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
