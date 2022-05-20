@@ -10,6 +10,13 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 
 - [Genome Assembly](#genome-assembly)
   - [De novo](#de-novo)
+- [Multiple sequence alignments (MSAs) and phylogenetics](#multiple-sequence-alignments-msas-and-phylogenetics)
+  - [Trim multiple sequence alignment](#trim-multiple-sequence-alignment)
+  - [Align multiple sequences](#align-multiple-sequences)
+  - [Alignment summary statistics](#alignment-summary-statistics)
+  - [Phylogenetic inference](#phylogenetic-inference)
+- [Analyses of codons](#analyses-of-codons)
+  - [Codon optimization](#codon-optimization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
