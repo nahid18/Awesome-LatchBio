@@ -54,6 +54,12 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   **wf.clipkit** | [paper-2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007) | [documentation](https://jlsteenwyk.com/ClipKIT/)
   - Multiple sequence alignment trimming for accurate phylogenomic inference.
 
+
+- **[CIAlign](https://github.com/KatyBrown/CIAlign.git)
+  <br/>
+  **wf.CIAlign** | [Latch source code](https://github.com/GeOdette/clalign.git) | [Documentation](https://github.com/GeOdette/clalign.git)
+  - Clean, visualise, and interpret the multiple sequence alignment
+
 #### Summary statistics
 - **[BioKIT alignment_summary_statistics](https://jlsteenwyk.com/BioKIT/)**
   <br/>
