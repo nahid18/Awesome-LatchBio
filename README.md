@@ -48,6 +48,11 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   **wf.align_sequences_mafft** | [paper-2013](https://academic.oup.com/mbe/article/30/4/772/1073398) | [documentation](https://mafft.cbrc.jp/alignment/software/))
   - Multiple sequence alignment program.
 
+- **[CIAlign](https://github.com/KatyBrown/CIAlign.git)**
+  <br/>
+  **wf.CIAlign** | [Paper](https://peerj.com/articles/12983/) | [Documentation](https://github.com/GeOdette/clalign.git)
+  - Clean, visualise, and interpret multiple sequence alignment.
+
 #### Trimming
 - **[ClipKIT](https://github.com/JLSteenwyk/ClipKIT)** 
   <br/>
