@@ -87,5 +87,12 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   **wf.codon_optimization_biokit** | [paper-2022](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac079/6583183) | [documentation](https://jlsteenwyk.com/BioKIT/)
   - Estimate codon optimization using [BioKIT](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac079/6583183)
 
+### CRISPR
+#### CRISPR locus
+- **[CRISPRbuilderTB](https://github.com/GeOdette/crisptb.git)**
+  <br/>
+  **wf.CRISPRbuilderTB** | [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008500) | [documentation](https://github.com/GeOdette/crisptb.git)
+  - Reconstruct Mycobacterium tuberculosis CRISPR-Cas loci from short reads using [CRISPRbuilder-TB](https://github.com/cguyeux/CRISPRbuilder-TB.git)
+
 ### Contributors
 ![Your Repository's Stats](https://contrib.rocks/image?repo=nahid18/Awesome-LatchBio)
