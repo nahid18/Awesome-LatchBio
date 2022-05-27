@@ -83,7 +83,7 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 
 ### CRISPR
 #### CRISPR locus
-- **[CRISPRbuilderTB] | [github](https://github.com/GeOdette/crisptb.git)**
+- **[CRISPRbuilderTB](https://github.com/GeOdette/crisptb.git)**
   <br/>
   **wf.CRISPRbuilderTB** | [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008500) | [documentation](https://github.com/GeOdette/crisptb.git)
   - Reconstruct Mycobacterium tuberculosis CRISPR-Cas loci from short reads using [CRISPRbuilder-TB](https://github.com/cguyeux/CRISPRbuilder-TB.git)
