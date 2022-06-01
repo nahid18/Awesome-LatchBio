@@ -41,6 +41,12 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   <br/>
   **wf.genome_assembly_metrics_biokit** | [paper-2022](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac079/6583183) | [documentation](https://jlsteenwyk.com/BioKIT/)
   - Calculate diverse summary statistics for a genome assembly using [BioKIT](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac079/6583183) 
+  
+#### Circular genomes
+- **[Circlator](https://console.latch.bio/explore/60347/info)**
+  <br/>
+  [github repo](https://github.com/matteobolner/latch_workflows) | [paper-2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0849-0)
+   - Circlator is a post-assembly improvement toolkit for producing correctly represented circular DNA structures.
 
 ### Multiple sequence alignment
 
