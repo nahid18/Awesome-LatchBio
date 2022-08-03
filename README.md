@@ -50,6 +50,24 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   [github repo](https://github.com/matteobolner/latch_workflows) | [paper-2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0849-0)
    - Circlator is a post-assembly improvement toolkit for producing correctly represented circular DNA structures.
 
+### Sequence alignment
+
+#### BLAST
+- **makeblastdb**
+  | [Latch Workflow](https://console.latch.bio/explore/65929/info) | [Source Code](https://github.com/matteobolner/latch_workflows/tree/master/makeblastdb) | [Documentation](https://www.ncbi.nlm.nih.gov/books/NBK279670/)
+  - Produce BLAST databases from FASTA files
+- **blast**
+  | Coming soon
+  - Align biological sequences against other sequences or a database indexed with makeblastdb
+
+#### LAST
+- **lastdb**
+  | [Latch Workflow](https://console.latch.bio/explore/64352/info) | [Source Code](https://github.com/matteobolner/latch_workflows/tree/master/lastdb) | [Related Papers](https://gitlab.com/mcfrith/last/-/blob/main/doc/last-papers.rst) | [Documentation](https://gitlab.com/mcfrith/last/-/tree/main)
+  - Prepare sequences for subsequent comparison and alignment using lastal
+- **lastal**
+  | [Latch Workflow](https://console.latch.bio/explore/65242/info) | [Source Code](https://github.com/matteobolner/latch_workflows/tree/master/lastal) | [Related Papers](https://gitlab.com/mcfrith/last/-/blob/main/doc/last-papers.rst) | [Documentation](https://gitlab.com/mcfrith/last/-/tree/main)
+  - Find local alignments between query sequences, and reference sequences that have been prepared using lastdb.
+
 ### Multiple sequence alignment
 
 #### Align
@@ -88,6 +106,11 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
   <br/>
   **wf.infer_phylogeny** | [paper-2020](https://doi.org/10.1093/molbev/msaa015) | [documentation](http://www.iqtree.org/doc/)
   - Efficient software for phylogenomic inference.
+#### Bayesian evolutionary analysis
+- **BEAST**
+  | [Latch Workflow](https://console.latch.bio/explore/62992/info) | [Source Code](https://github.com/matteobolner/latch_workflows/tree/master/beast) | [Related Papers](https://doi.org/10.1093/ve/vey016) | [Documentation](https://beast.community/)
+  - Bayesian analysis of molecular sequences using Monte Carlo Markov Chain
+
 
 ### Codon analyses
 
@@ -113,6 +136,11 @@ A curated list of awesome Bioinformatics pipelines and software available on [La
 - **NUPACK - Utilities**
   | [Latch Workflow](https://console.latch.bio/explore/62158/info) | [Source Code](https://github.com/beliveau-lab/NUPACK) | [Related Papers](https://docs.nupack.org/#citation) | [Documentation](https://docs.nupack.org/utilities/)
   - Structural analysis using [NUPACK Utilities](https://docs.nupack.org/utilities/) for a complex formed between two nucleotide strands
+
+### General use
+#### Latch console
+- **Downloader** | [Latch Workflow](https://console.latch.bio/explore/61426/info) | [Source Code](https://github.com/matteobolner/latch_workflows/tree/master/downloader) 
+  - Download files directly in the Latch Console
 
 ### Contributors
 ![Your Repository's Stats](https://contrib.rocks/image?repo=nahid18/Awesome-LatchBio)
